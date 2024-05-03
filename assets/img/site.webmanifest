@@ -1,0 +1,20 @@
+{
+    "name": "Generador de Letras",
+    "short_name": "Genera Letras",
+    "icons": [
+        {
+            "src": "/android-chrome-16x16.png",
+            "sizes": "16x16",
+            "type": "image/png"
+        },
+        {
+            "src": "/android-chrome-32x32.png",
+            "sizes": "32x32",
+            "type": "image/png"
+        }
+    ],
+    "theme_color": "#fafafa",
+    "background_color": "#fafafa",
+    "orientation": "portrait",
+    "display": "fullscreen"
+}
