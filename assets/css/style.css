@@ -19,6 +19,8 @@
     text-transform: uppercase;
     box-shadow: none;
     user-select: none;
+    background-color: rgba(250, 235, 215, 0.562);
+    color: #474748;
     /* color: #000; */
 }
 
