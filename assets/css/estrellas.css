@@ -5,7 +5,7 @@
     display: block;
     width: 100vw;
     height: 100vh;
-    background-image: url(../img/background.jpg?v=v1.0.22);
+    background-image: url(../img/background.webp?v=v1.0.23);
     opacity: 1;
     z-index: 1;
     background-size: cover;

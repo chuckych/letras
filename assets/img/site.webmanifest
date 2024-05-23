@@ -3,12 +3,12 @@
     "short_name": "Genera Letras",
     "icons": [
         {
-            "src": "/android-chrome-16x16.png",
+            "src": "/android-chrome-16x16.webp?v=v1.0.23",
             "sizes": "16x16",
             "type": "image/png"
         },
         {
-            "src": "/android-chrome-32x32.png",
+            "src": "/android-chrome-32x32.webp?v=v1.0.23",
             "sizes": "32x32",
             "type": "image/png"
         }
